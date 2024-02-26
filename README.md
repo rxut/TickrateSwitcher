@@ -1,11 +1,13 @@
 Tickrate Switcher is a simple UT99 mutator that dynamically changes the server tickrate based on Level Info parameters.
 
 **FEATURES:**
+
 - You can set the server Tickrate based on different game mods and voting options
 - TickrateSwitcher adjusts both IpDrv.TcpNetDriver NetServerMaxTickRate and Engine.DemoRecDriver NetServerMaxTickRate
 - When a tickrate is switched,d you'll see a message in your server log
 
 **SERVER-SIDE INSTALLATION:**
+
 Step 1) Copy TickrateSwitcher.u into the System directory of your server
 
 Step 2) Add ServerPackages=TickrateSwitcher inside of your server UnrealTournament.ini
