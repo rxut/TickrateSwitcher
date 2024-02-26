@@ -14,7 +14,7 @@ Step 2) Add ServerPackages=TickrateSwitcher inside of your server UnrealTourname
 
 Step 3) Ensure the TickrateSwitcher mutator is included in the server mutator list. e.g. Mutators=TickrateSwitcher.TR
 
-Lastly, add **Parameters=?Tickrate=128** or **Parameters=?Tickrate=60** or any desired tickrate inside your Map Vote as a part of settings.
+Step 4) Add **Parameters=?Tickrate=128** or **Parameters=?Tickrate=60** or any desired tickrate inside your Map Vote as a part of settings.
 
 I recommend using VoteSys by Deoad as your map vote mod (https://github.com/Deaod/VoteSys)
 
