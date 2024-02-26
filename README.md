@@ -22,4 +22,4 @@ I recommend using VoteSys by Deoad as your map vote mod (https://github.com/Deao
 
 Thanks to Deoad, Buggie, and Marco from the OldUnreal team for helping clean up the code.
 
-Also, thanks to devereux (https://utctfpug.com/discord) who was the first to come up with the idea.
+Also, thanks to devereux (https://utctfpug.com/discord), who was the first to come up with the idea and create a mod like this.
