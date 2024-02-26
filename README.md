@@ -1,4 +1,4 @@
-Tickrate Switcher is a simple UT99 mutator that dynamically changes the server tickrate based on Level Info parameters.
+Tickrate Switcher is a simple UT99 mutator that dynamically changes the server tickrate based on Level Info URL parameters.
 
 **FEATURES:**
 
@@ -16,7 +16,7 @@ Step 3) Ensure the TickrateSwitcher mutator is included in the server mutator li
 
 Step 4) Add **Parameters=?Tickrate=128** or **Parameters=?Tickrate=60** or any desired tickrate inside your Map Vote as a part of settings.
 
-I recommend using VoteSys by Deoad as your map vote mod (https://github.com/Deaod/VoteSys)
+I recommend using VoteSys by Deoad as your map vote mod (https://github.com/Deaod/VoteSys) as it allows parameters to be added to the URL.
 
 **ACKNOWLEDGEMENTS:**
 
